@@ -2,7 +2,7 @@
 <br>
 
 ## 📋 Proje Hakkında 
-Bu proje, bir web uygulamasını test etmek için geliştirilen bir test otomasyon framework'üdür. Java, Selenium, Cucumber, TestNG, Log4j ve Allure raporlama araçları kullanılarak geliştirilmiştir.
+Bu proje, bir web uygulamasını test etmek için geliştirilen bir test otomasyon framework'üdür. `Java`, `Selenium`, `Cucumber`, `TestNG`, `Log4j` ve `Allure raporlama` araçları kullanılarak geliştirilmiştir.
 
 **Proje Özellikleri**:
 
@@ -137,7 +137,7 @@ mvn clean install
 - Selenium 4
 - Cucumber 7
 - TestNG
-- Allure
+- Allure Raporlama
 - Log4j
   
 # ✨ Ek Özellikler
