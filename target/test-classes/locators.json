@@ -1,0 +1,178 @@
+[
+  {
+    "key": "LoginUsername",
+    "value": "input[placeholder=\"Username\"]",
+    "type": "css"
+  },
+  {
+    "key": "LoginPassword",
+    "value": "input[placeholder=\"Password\"]",
+    "type": "css"
+  },
+  {
+    "key": "LoginButton",
+    "value": ".css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73.r-1awozwy.r-169ebfh.r-z2wwpe.r-h3s6tt.r-1777fci.r-tsynxw.r-13qz1uu",
+    "type": "css"
+  },
+  {
+    "key": "LogoutButton",
+    "value": ".css-146c3p1.r-jwli3a.r-vw2c0b.r-1d4mawv",
+    "type": "css"
+  },
+  {
+    "key": "OpenMoneyTransferButton",
+    "value": ".css-146c3p1.r-jwli3a.r-1b43r93",
+    "type": "css"
+  },
+  {
+    "key": "DollarIcon",
+    "value": ".css-175oi2r.r-14lw9ot.r-z2wwpe.r-edyy15>div.css-175oi2r:last-of-type>.css-175oi2r>div+svg",
+    "type": "css"
+  },
+  {
+    "key": "MyAccountAmountValue",
+    "value": ".css-175oi2r.r-14lw9ot.r-z2wwpe.r-edyy15>div.css-175oi2r:last-of-type>.css-175oi2r",
+    "type": "css"
+  },
+  {
+    "key": "TransferMoneyAmountInput",
+    "value": ".css-11aywtz.r-6taxm2.r-1eh6qqt.r-z2wwpe.r-rs99b7.r-h3s6tt.r-1qhn6m8",
+    "type": "css"
+  },
+  {
+    "key": "FirstTransactions",
+    "value": ".css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx>.css-175oi2r>.css-175oi2r:nth-of-type(1)",
+    "type": "css"
+  },
+
+  {
+    "key": "FirstTransactionsAmount",
+    "value": ".css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx>.css-175oi2r>.css-175oi2r:nth-of-type(1)>div>div>div>div:nth-of-type(4)>div>div",
+    "type": "css"
+  },
+  {
+    "key": "TransferMoneyButton",
+    "value": ".css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73.r-1awozwy.r-169ebfh.r-z2wwpe.r-1777fci.r-tsynxw.r-16l9doz.r-edyy15.r-iyfy8q:nth-of-type(1)",
+    "type": "css"
+  },
+  {
+    "key": "AddMoneyButton",
+    "value": ".css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73.r-1awozwy.r-169ebfh.r-z2wwpe.r-1777fci.r-tsynxw.r-16l9doz.r-edyy15.r-iyfy8q:nth-of-type(2)",
+    "type": "css"
+  },
+  {
+    "key": "EditAccountButton",
+    "value": ".css-175oi2r.r-1i6wzkk.r-lrvibr.r-1loqt21.r-1otgn73.r-1awozwy.r-169ebfh.r-z2wwpe.r-1777fci.r-tsynxw.r-16l9doz.r-edyy15.r-iyfy8q:nth-of-type(3)",
+    "type": "css"
+  },
+  {
+    "key": "TransferMoneyOverlayCloseIcon",
+    "value": "//div[text()='Transfer money']/following-sibling::div[@class='css-146c3p1 r-lrvibr r-1loqt21']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyOverlayCloseIcon",
+    "value": "//div[text()='Add money']/following-sibling::div[@class='css-146c3p1 r-lrvibr r-1loqt21']",
+    "type": "xpath"
+  },
+  {
+    "key": "EditAccountOverlayCloseIcon",
+    "value": "//div[text()='Edit account']/following-sibling::div[@class='css-146c3p1 r-lrvibr r-1loqt21']",
+    "type": "xpath"
+  },
+  {
+    "key": "MyAccountBackNavigationButton",
+    "value": ".css-146c3p1.r-jwli3a.r-vw2c0b.r-13hce6t",
+    "type": "css"
+  },
+  {
+    "key": "MyAccountAccountNameValue",
+    "value": ".css-175oi2r.r-14lw9ot.r-z2wwpe.r-edyy15>div:nth-of-type(1)>div+div,",
+    "type": "css"
+  },
+
+  {
+    "key": "EditAccountNameInputValue",
+    "value": ".css-175oi2r.r-13qz1uu>input",
+    "type": "css"
+  },
+
+
+  {
+    "key": "EditAccountUpdateButton",
+    "value": "//div[text()='UPDATE']",
+    "type": "xpath"
+  },
+  {
+    "key": "SendButton",
+    "value": "//div[text()='Send']/parent::*",
+    "type": "xpath"
+  },
+  {
+    "key": "AddButton",
+    "value": "//div[text()='Add']",
+    "type": "xpath"
+  },
+  {
+    "key": "Testinium-2",
+    "value": "//select/option[text()='Testinium-2']",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCardNumberInput",
+    "value": "//div[text()='Card number']/following-sibling::input",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCardHolderInput",
+    "value": "//div[text()='Card holder']/following-sibling::input",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyExpiryDateInput",
+    "value": "//div[text()='Expiry date']/following-sibling::input",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCVVInput",
+    "value": "//div[text()='CVV']/following-sibling::input",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyAmountInput",
+    "value": ".css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx.r-1pi2tsx.r-13qz1uu>div>div:nth-of-type(8)>input",
+    "type": "css"
+  },
+  {
+    "key": "AddMoneyCardNumberRequiredWarning",
+    "value": "//div[text()='Card number']/following-sibling::div",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCardHolderRequiredWarning",
+    "value": "//div[text()='Card holder']/following-sibling::div",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyExpiryDateRequiredWarning",
+    "value": "//div[text()='Expiry date']/following-sibling::div",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyCVVRequiredWarning",
+    "value": "//div[text()='CVV']/following-sibling::div",
+    "type": "xpath"
+  },
+  {
+    "key": "AddMoneyAmountRequiredWarning",
+    "value": ".css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx.r-1pi2tsx.r-13qz1uu>div>div:nth-of-type(8)>input+div",
+    "type": "css"
+  },
+
+
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  }
+]

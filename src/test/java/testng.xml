@@ -1,0 +1,20 @@
+<suite name="Parallel Tests" parallel="tests" thread-count="3">
+    <test name="Chrome Tests">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="Tests.ChromeTest" />
+        </classes>
+    </test>
+    <test name="Firefox Tests">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="Tests.FirefoxTest" />
+        </classes>
+    </test>
+    <test name="Safari Tests">
+        <parameter name="browser" value="safari" />
+        <classes>
+            <class name="Tests.SafariTest" />
+        </classes>
+    </test>
+</suite>
