@@ -4,6 +4,11 @@
 ## 📋 Proje Hakkında 
 Bu proje, bir web uygulamasını test etmek için geliştirilen bir test otomasyon framework'üdür. `Java`, `Selenium`, `Cucumber`, `TestNG`, `Log4j` ve `Allure raporlama` araçları kullanılarak geliştirilmiştir.
 
+`NOT1:` **Gereksinimler net olmadığı için, kullanıcı bakış açısıyla inisiyatif alınarak temel işlevsellikler tanımlanmış ve potansiyel gereksinimler olarak değerlendirilmiştir.**
+
+`NOT2:` **Otomasyonda çıkan failler, gereksinimlerde bulunan buglara göre beklenen failleri vermektedir. Senaryo üstlerine not alınmıştır.**
+
+<br>
 **Proje Özellikleri**:
 
 - Sayfa Nesne Modeli (POM) tasarım deseni ile sayfa yönetimi.
@@ -83,6 +88,10 @@ mvn test
 4. **Allure raporlarını oluşturun**:
 ```
 allure serve allure-results
+```
+5. **Otomasyon koşumu**:
+```
+'CucumberRunner' classı üzerinden `Run` edilir
 ```
 
 # 📖 Kullanım Yönergeleri
